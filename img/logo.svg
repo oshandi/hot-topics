@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="Layer_1"
+    xml:space="preserve"
+    viewBox="0 0 792 612"
+    y="0px"
+    version="1.1"
+    enable-background="new 0 0 792 612"
+    x="0px"
+  >
+	<path
+      fill="#F0D136"
+      clip-rule="evenodd"
+      d="m390.48 189.59c-66.753 0-120.87 49.568-120.87 110.71s54.118 110.71 120.87 110.71 120.87-49.56 120.87-110.71-54.12-110.71-120.87-110.71m7.9 206.56c-52.729 0-95.478-40.019-95.478-89.383s42.749-89.382 95.478-89.382c52.729 0 95.477 40.018 95.477 89.382s-42.75 89.38-95.48 89.38"
+      fill-rule="evenodd"
+  />
+	<path
+      stroke="#CB6F3D"
+      d="m390.48 189.59c-66.753 0-120.87 49.568-120.87 110.71s54.118 110.71 120.87 110.71 120.87-49.56 120.87-110.71-54.12-110.71-120.87-110.71zm7.9 206.56c-52.729 0-95.478-40.019-95.478-89.383s42.749-89.382 95.478-89.382c52.729 0 95.477 40.018 95.477 89.382s-42.75 89.38-95.48 89.38z"
+      fill="none"
+  />
+	<path
+      fill="#EBBF47"
+      clip-rule="evenodd"
+      d="m398.38 217.39c-52.729 0-95.477 40.019-95.477 89.382 0 49.364 42.748 89.383 95.477 89.383s95.477-40.019 95.477-89.383c0-49.36-42.75-89.38-95.48-89.38m4.31 165.88c-32.534 0-58.911-29.105-58.911-65.006s26.377-65.006 58.911-65.006c32.535 0 58.912 29.105 58.912 65.006s-26.38 65.01-58.91 65.01"
+      fill-rule="evenodd"
+  />
+	<path
+      stroke="#CB6F3D"
+      d="m398.38 217.39c-52.729 0-95.477 40.019-95.477 89.382 0 49.364 42.748 89.383 95.477 89.383s95.477-40.019 95.477-89.383c0-49.36-42.75-89.38-95.48-89.38zm4.31 165.88c-32.534 0-58.911-29.105-58.911-65.006s26.377-65.006 58.911-65.006c32.535 0 58.912 29.105 58.912 65.006s-26.38 65.01-58.91 65.01z"
+      fill="none"
+  />
+	<path
+      fill="#F1D85E"
+      clip-rule="evenodd"
+      d="m402.69 253.26c-32.534 0-58.911 29.104-58.911 65.006 0 35.9 26.377 65.005 58.911 65.005 32.535 0 58.912-29.105 58.912-65.005 0-35.92-26.38-65.02-58.91-65.02m8.38 60.8c-4.487 0-8.125-3.184-8.125-7.11 0-3.927 3.638-7.11 8.125-7.11 4.488 0 8.126 3.183 8.126 7.11 0.01 3.92-3.63 7.11-8.12 7.11"
+      fill-rule="evenodd"
+  />
+	<path
+      stroke="#CB6F3D"
+      d="m402.69 253.26c-32.534 0-58.911 29.104-58.911 65.006 0 35.9 26.377 65.005 58.911 65.005 32.535 0 58.912-29.105 58.912-65.005 0-35.92-26.38-65.02-58.91-65.02zm8.38 60.8c-4.487 0-8.125-3.184-8.125-7.11 0-3.927 3.638-7.11 8.125-7.11 4.488 0 8.126 3.183 8.126 7.11 0.01 3.92-3.63 7.11-8.12 7.11z"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="299.51 393.55 263.6 405.05 283.7 380.63"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="299.51 393.55 263.6 405.05 283.7 380.63"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="269.34 359.08 234.87 366.26 266.47 341.84"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="269.34 359.08 234.87 366.26 266.47 341.84"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="259.29 297.31 260.72 327.48 209.01 317.42"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="259.29 297.31 260.72 327.48 209.01 317.42"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="260.72 278.64 267.9 257.09 221.94 244.16"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="260.72 278.64 267.9 257.09 221.94 244.16"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="277.96 238.42 295.2 218.31 247.79 201.07"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="277.96 238.42 295.2 218.31 247.79 201.07"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="313.87 198.2 331.11 189.58 303.82 152.23"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="313.87 198.2 331.11 189.58 303.82 152.23"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="352.65 183.84 372.76 180.96 356.96 149.36"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="352.65 183.84 372.76 180.96 356.96 149.36"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="391.44 182.4 411.55 185.27 405.8 135"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="391.44 182.4 411.55 185.27 405.8 135"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="431.66 185.27 448.9 192.45 460.39 149.36"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="431.66 185.27 448.9 192.45 460.39 149.36"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="466.13 202.51 506.35 178.09 486.24 218.31"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="466.13 202.51 506.35 178.09 486.24 218.31"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="499.17 231.24 509.23 248.47 546.57 219.74"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="499.17 231.24 509.23 248.47 546.57 219.74"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="517.84 270.02 520.72 297.31 583.92 280.08"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="517.84 270.02 520.72 297.31 583.92 280.08"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="316.74 402.17 311 438.08 336.85 413.66"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="316.74 402.17 311 438.08 336.85 413.66"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="352.65 419.41 361.27 466.81 374.2 422.28"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="352.65 419.41 361.27 466.81 374.2 422.28"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="395.75 423.72 427.35 416.54 424.48 473.99"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="395.75 423.72 427.35 416.54 424.48 473.99"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="450.33 410.79 464.7 452.45 474.75 394.99"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="450.33 410.79 464.7 452.45 474.75 394.99"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="489.12 386.37 539.39 409.36 504.92 367.7"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="489.12 386.37 539.39 409.36 504.92 367.7"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="517.84 334.66 512.1 353.33 562.37 360.52"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="517.84 334.66 512.1 353.33 562.37 360.52"
+      fill="none"
+  />
+	<polygon
+      fill="#F0D136"
+      points="522.15 304.5 520.72 326.04 583.92 315.99"
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+  />
+	<polygon
+      stroke="#CB6F3D"
+      points="522.15 304.5 520.72 326.04 583.92 315.99"
+      fill="none"
+  />
+	<path
+      d="m437.64 302.67c0.042-11.052-8.467-20.044-19.007-20.086-5.069-0.018-9.682 2.038-13.114 5.41-3.402-3.398-8.002-5.488-13.071-5.506-10.537-0.044-19.113 8.887-19.156 19.943-0.017 5.369 1.979 10.255 5.246 13.861l0.022 0.089 26.701 27.554 26.606-27.042c3.61-4.01 5.75-8.18 5.77-14.21"
+      fill="#E2A84D"
+  />
+	<path
+      stroke="#CB6F3D"
+      d="m437.64 302.67c0.042-11.052-8.467-20.044-19.007-20.086-5.069-0.018-9.682 2.038-13.114 5.41-3.402-3.398-8.002-5.488-13.071-5.506-10.537-0.044-19.113 8.887-19.156 19.943-0.017 5.369 1.979 10.255 5.246 13.861l0.022 0.089 26.701 27.554 26.606-27.042c3.61-4.01 5.75-8.18 5.77-14.21z"
+      fill="none"
+  />
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Love Sunshine</dc:title
+        ><dc:date
+          >2013-11-04T23:20:42</dc:date
+        ><dc:description
+          >A very bright sun with a heart in the center.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/188316/love-sunshine-by-hebron-188316</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >hebron</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >Sunshine</rdf:li
+            ><rdf:li
+              >bright</rdf:li
+            ><rdf:li
+              >heart</rdf:li
+            ><rdf:li
+              >summer</rdf:li
+            ><rdf:li
+              >summertime</rdf:li
+            ><rdf:li
+              >sun</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
